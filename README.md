@@ -1,0 +1,1 @@
+# Vuetify_FastAPI_Base
